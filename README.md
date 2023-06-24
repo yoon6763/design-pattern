@@ -6,8 +6,8 @@
 
 # 공부해본 것들
 
-Strategy 패턴 <br><br>
-
-Template Callback Pattern 패턴 (Strategy 패턴 파생) <br><br>
+Strategy 패턴, Template Callback Pattern 패턴 (Strategy 패턴 파생 패턴) <br>
+https://uknowblog.tistory.com/343
+<br><br>
 
 Observer 패턴 <br><br>
