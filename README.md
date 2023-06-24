@@ -6,6 +6,6 @@
 
 # 공부해본 것들
 
-Strategy 패턴
-Template Callback Pattern 패턴 (Strategy 패턴 파생)
-Observer 패턴
+Strategy 패턴 <br>
+Template Callback Pattern 패턴 (Strategy 패턴 파생) <br>
+Observer 패턴 <br>
