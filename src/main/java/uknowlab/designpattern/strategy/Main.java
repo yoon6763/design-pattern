@@ -1,9 +1,9 @@
-package strategy;
+package uknowlab.designpattern.strategy;
 
 public class Main {
     public static void main(String[] args) {
 
-        java.lang.Character character = new java.lang.Character();
+        Character character = new Character();
         character.setWeapon(new Archer());
         character.attack();
 

@@ -1,4 +1,4 @@
-package strategy;
+package uknowlab.designpattern.strategy;
 
 public class Warrior implements Attack{
     @Override

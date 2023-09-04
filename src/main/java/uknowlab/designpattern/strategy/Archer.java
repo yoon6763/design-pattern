@@ -1,4 +1,4 @@
-package strategy;
+package uknowlab.designpattern.strategy;
 
 public class Archer implements Attack {
     @Override

@@ -1,4 +1,4 @@
-package observer;
+package uknowlab.designpattern.observer;
 
 public class Main {
     public static void main(String[] args) {
