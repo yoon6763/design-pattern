@@ -1,4 +1,4 @@
-package uknowlab.designpattern.observer;
+package uknowlab.designpattern.observer.exam2;
 
 public class Customer {
 
