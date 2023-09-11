@@ -5,7 +5,7 @@ public class Espresso extends Beverage {
         description = "에스프레소";
     }
 
-    public double cost() {
-        return 2000;
+    public int cost() {
+        return 2500;
     }
 }

@@ -2,17 +2,17 @@ package uknowlab.designpattern.decorator.condiment;
 
 import uknowlab.designpattern.decorator.beverage.Beverage;
 
-public class Whip extends ToppingDecorator {
+public class JavaChip extends ToppingDecorator {
 
-    public Whip(Beverage beverage) {
+    public JavaChip(Beverage beverage) {
         this.beverage = beverage;
     }
 
     public String getDescription() {
-        return beverage.getDescription() + ", 휘핑";
+        return beverage.getDescription() + ", 자바칩";
     }
 
     public int cost() {
-        return beverage.cost() + 600;
+        return beverage.cost() + 700;
     }
 }
