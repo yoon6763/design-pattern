@@ -13,6 +13,11 @@ https://uknowblog.tistory.com/343 <br>
 <br>
 
 ### Observer 패턴 <br>
+
 https://uknowblog.tistory.com/389 <br>
 이런걸 나만 알 순 없지. 다른 친구들에게 연락을 돌려야겠어! <br>
 <br>
+
+### Decorator 패턴 <br>
+
+-- 준비중 --
