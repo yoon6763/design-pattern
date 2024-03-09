@@ -37,3 +37,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/main/java/uknowlab/Main.java
+/src/main/java/uknowlab/Main.kt
