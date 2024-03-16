@@ -22,9 +22,19 @@ https://uknowblog.tistory.com/389 <br>
 
 https://uknowblog.tistory.com/392 <br>
 카페라떼 한 잔이요. 펄 추가해주시고 자바칩 넣어주시고 샷 두번 추가해주시고 휘핑 조금만 올려주시고 민초 토핑 올려주세요. <br>
+<br>
 
 ### Factory 패턴 <br>
+
 https://uknowblog.tistory.com/456 <br>
 뉴욕식 치즈 피자 한 판이요. 캘리포니아식 야채 피자 한 판이요. 시카고식 페퍼로니 피자 한 판이요. <br>
-(언제 다 만들지... ㅠㅠ) <br>
+(알바생 : 언제 다 만들지... ㅠㅠ) <br>
 
+### Singleton 패턴 <br>
+
+https://uknowblog.tistory.com/458 <br>
+세상에 단 하나뿐인 객체 <br>
+
+### Command 패턴 <br>
+
+-- 준비중 -- <br>
