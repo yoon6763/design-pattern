@@ -29,11 +29,13 @@ https://uknowblog.tistory.com/392 <br>
 https://uknowblog.tistory.com/456 <br>
 뉴욕식 치즈 피자 한 판이요. 캘리포니아식 야채 피자 한 판이요. 시카고식 페퍼로니 피자 한 판이요. <br>
 (알바생 : 언제 다 만들지... ㅠㅠ) <br>
+<br>
 
 ### Singleton 패턴 <br>
 
 https://uknowblog.tistory.com/458 <br>
 세상에 단 하나뿐인 객체 <br>
+<br>
 
 ### Command 패턴 <br>
 
