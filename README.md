@@ -27,13 +27,23 @@ https://uknowblog.tistory.com/392 <br>
 ### Factory 패턴 <br>
 
 https://uknowblog.tistory.com/456 <br>
-뉴욕식 치즈 피자 한 판이요. 캘리포니아식 야채 피자 한 판이요. 시카고식 페퍼로니 피자 한 판이요. <br>
+뉴욕식 치즈 피자 한 판이요.<br>
+캘리포니아식 야채 피자 한 판이요.<br>
+시카고식 페퍼로니 피자 한 판이요. <br>
 (알바생 : 언제 다 만들지... ㅠㅠ) <br>
 
 ### Singleton 패턴 <br>
 
 https://uknowblog.tistory.com/458 <br>
 세상에 단 하나뿐인 객체 <br>
+싱글톤이세요? 저는 벙글톤이에요!엌ㅋㅋㅋ! <br>
+<br>
+
+### Adaptor 패턴 <br>
+https://uknowblog.tistory.com/464 <br>
+일본 여행을 왔다...! 그런데 플러그가 안 맞아... <br>
+220V를 110V로 바꿔주는 어댑터가 필요해! <br>\
+<br>
 
 ### Command 패턴 <br>
 
