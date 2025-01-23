@@ -1,8 +1,0 @@
-package uknowlab.designpattern.strategy;
-
-public class Wizard implements Attack{
-    @Override
-    public void attack() {
-        System.out.println("마법 공격");
-    }
-}
