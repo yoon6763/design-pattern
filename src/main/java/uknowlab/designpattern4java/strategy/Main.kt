@@ -1,9 +1,7 @@
-package uknowlab.designpattern4java.strategy
+package uknowlab.designpattern4kotlin.strategy
 
 fun main() {
     val character = Character()
-    character.setWeapon {
-        println("검 무기 공격!")
-    }
+    character.setWeapon(Archer())
     character.attack()
 }

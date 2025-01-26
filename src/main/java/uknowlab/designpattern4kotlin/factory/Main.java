@@ -1,5 +1,7 @@
 package uknowlab.designpattern4kotlin.factory;
 
+import uknowlab.designpattern4kotlin.factory.pizza.Pizza;
+
 public class Main {
     public static void main(String[] args) {
         PizzaStore nyStore = new NYPizzaStore();
